@@ -1,0 +1,14 @@
+{
+  "item.proton_fluorescence.proton_blade": "「质子荧光」",
+  "se.proton_fluorescence.proton_resonance": "质子共振",
+  "se.proton_fluorescence.proton_edge": "荧光刃界",
+  "death.attack.proton_fluorescence.proton_true": "%1$s 被质子荧光击穿了",
+  "death.attack.proton_fluorescence.proton_true.player": "%1$s 被 %2$s 的质子荧光击穿了",
+  "tooltip.proton_fluorescence.on": "电力模式：开启 · SSS锁定 · 强化剑技",
+  "tooltip.proton_fluorescence.off": "电力模式：关闭",
+  "tooltip.proton_fluorescence.switch": "使用SI工具开关键切换（默认G），也支持SI装备控制台",
+  "tooltip.proton_fluorescence.se_low": "低于35级：关闭无附加效果；开启获得剑气和额外50%真实伤害",
+  "tooltip.proton_fluorescence.se_high": "35级起：关闭获得剑气与额外50%真实伤害；开启锁定虚空斩与额外100%真实伤害",
+  "tooltip.proton_fluorescence.energy": "%s / %s EU · %s EU/次传输 · T%s",
+  "message.proton_fluorescence.no_energy": "EU不足，无法开启"
+}

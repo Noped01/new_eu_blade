@@ -1,0 +1,31 @@
+modLoader="javafml"
+loaderVersion="[4,)"
+license="MIT (original addon code); see LICENSE-METS.txt for placeholder assets"
+[[mods]]
+modId="proton_fluorescence"
+version="0.2.0"
+displayName="质子荧光 | Proton Fluorescence"
+authors="qpzdy; implementation assisted by Codex"
+description='''Native Resharpened blade with SI EU, SI tool modes, independent level-aware SE and two-mode SA hooks.'''
+[[dependencies.proton_fluorescence]]
+modId="minecraft"
+type="required"
+versionRange="[1.21.1]"
+side="BOTH"
+[[dependencies.proton_fluorescence]]
+modId="neoforge"
+type="required"
+versionRange="[21.1.228,21.2)"
+side="BOTH"
+[[dependencies.proton_fluorescence]]
+modId="slashblade"
+type="required"
+versionRange="[2.1.9-1.21.1]"
+ordering="AFTER"
+side="BOTH"
+[[dependencies.proton_fluorescence]]
+modId="mio_icif"
+type="required"
+versionRange="[0.1.11.1]"
+ordering="AFTER"
+side="BOTH"

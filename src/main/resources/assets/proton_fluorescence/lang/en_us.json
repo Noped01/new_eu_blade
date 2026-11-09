@@ -1,0 +1,14 @@
+{
+  "item.proton_fluorescence.proton_blade": "「Proton Fluorescence」",
+  "se.proton_fluorescence.proton_resonance": "Proton Resonance",
+  "se.proton_fluorescence.proton_edge": "Fluorescent Edge",
+  "death.attack.proton_fluorescence.proton_true": "%1$s was pierced by Proton Fluorescence",
+  "death.attack.proton_fluorescence.proton_true.player": "%1$s was pierced by %2$s's Proton Fluorescence",
+  "tooltip.proton_fluorescence.on": "Powered: ON · SSS · Enhanced combos",
+  "tooltip.proton_fluorescence.off": "Powered: OFF",
+  "tooltip.proton_fluorescence.switch": "Use SI tool toggle (default G), or SI equipment console",
+  "tooltip.proton_fluorescence.se_low": "Below level 35: OFF no extras; ON sword waves and +50% true damage",
+  "tooltip.proton_fluorescence.se_high": "Level 35+: OFF sword waves and +50% true damage; ON locked void strike and +100% true damage",
+  "tooltip.proton_fluorescence.energy": "%s / %s EU · %s EU/transfer · T%s",
+  "message.proton_fluorescence.no_energy": "Not enough EU to activate"
+}
